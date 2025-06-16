@@ -8,7 +8,7 @@ created_at: "2025-06-04"
 
 Hello! This is my attempt at making a accurate drive-to-target vehicle! The goal is to make the car accelerate and steer accurately to reach set waypoints and destinations within 1 cm accuracy over 10 meters. 
 
-## 1 | June 16 | Project Setup!
+## 1 | June 15 | Project Setup!
 
 + Had the idea for a while, but finally started organizing my thoughts! I laid out goals and checkpoints for this project.
 + Started researching part sourcing(motors, wheels, axles)
@@ -16,9 +16,12 @@ Hello! This is my attempt at making a accurate drive-to-target vehicle! The goal
 + Opened PR to add to submissions.
 + Figured out constraints: 12v by 8AA Batteries only, must be under 80cm length and 30cm width, must be able to reach 10m in <5 seconds
 + Scouted two popular compatible motor sizes(25&37mm)
-+ New dilemma: Separate encoder for accuracy?
++ New dilemma: Separate encoder for accuracy? (edit - yes)
 
 Starting CAD hopefully!
 
+**Total time spent: 4h**
 
-**Total time spent: 3h**
+## 2 | June 16 | CAD work
+
++ finalized BOM
