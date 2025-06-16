@@ -14,5 +14,11 @@ Hello! This is my attempt at making a accurate drive-to-target vehicle! The goal
 + Started researching part sourcing(motors, wheels, axles)
 + Figured out how to use Github+GitKraken
 + Opened PR to add to submissions.
++ Figured out constraints: 12v by 8AA Batteries only, must be under 80cm length and 30cm width, must be able to reach 10m in <5 seconds
++ Scouted two popular compatible motor sizes(25&37mm)
++ New dilemma: Separate encoder for accuracy?
 
-**Total time spent: 1.5h**
+Starting CAD hopefully!
+
+
+**Total time spent: 3h**
