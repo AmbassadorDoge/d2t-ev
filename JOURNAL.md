@@ -29,9 +29,9 @@ Starting CAD hopefully!
 + Started -> Finished! Axle and motor(front) assembly
 ![Axle](PICTURES/Screenshot%202025-06-16%20at%208.49.42 PM.png)
 ![Motor](PICTURES/Screenshot%202025-06-16%20at%208.50.04 PM.png)
-+ Started rear assembly
-![Back](PICTURES/Screenshot%202025-06-16%20at%209.51.40 PM.png)
++ Almost finished with rear assembly
+![Back](PICTURES/Screenshot%202025-06-16%20at%2011.50.11 PM.png)
 + Started code, skipping PCB because waste of money + this project will have multiple iterations
 
 
-**Total time spent: 5h**
+**Total time spent: 5.5h**
