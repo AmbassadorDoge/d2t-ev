@@ -25,4 +25,13 @@ Starting CAD hopefully!
 ## 2 | June 16 | CAD work
 
 + finalized BOM
-+ Started on front assembly
++ Finalized design plans(in my head unfortunately)
++ Started -> Finished! Axle and motor(front) assembly
+![Axle](PICTURES/Screenshot%202025-06-16%20at%208.49.42 PM.png)
+![Motor](PICTURES/Screenshot%202025-06-16%20at%208.50.04 PM.png)
++ Started rear assembly
+![Back](PICTURES/Screenshot%202025-06-16%20at%209.51.40 PM.png)
++ Started code, skipping PCB because waste of money + this project will have multiple iterations
+
+
+**Total time spent: 5h**
