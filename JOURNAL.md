@@ -25,3 +25,4 @@ Starting CAD hopefully!
 ## 2 | June 16 | CAD work
 
 + finalized BOM
++ Started on front assembly
