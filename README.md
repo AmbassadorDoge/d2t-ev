@@ -9,6 +9,7 @@ I did the Electric Vehicle event in Science Olympiad last year, and I really enj
 ## CAD
 ![cad](PICTURES/Screenshot%202025-06-18%20at%2010.51.20 AM.png)
 ![cad1](PICTURES/Screenshot%202025-06-18%20at%2012.16.31 PM.png)
+[Link to Onshape](https://cad.onshape.com/documents/52d1a2054508e6c2df25eacd/w/3b9dbb465043014923bcb53c/e/eebc9acd2c50155842fa07a8?renderMode=0&uiState=6853130b6589092a4721e968)
 
 ## Schematic
 ![sche](PICTURES/Screenshot%202025-06-18%20at%2012.07.50 PM.png)
