@@ -8,6 +8,8 @@ created_at: "2025-06-04"
 
 Hello! This is my attempt at making a accurate drive-to-target vehicle! The goal is to make the car accelerate and steer accurately to reach set waypoints and destinations within 1 cm accuracy over 10 meters. 
 
+### **Total total time spent: 20.5h**
+
 ## 1 | June 15 | Project Setup!
 
 + Had the idea for a while, but finally started organizing my thoughts! I laid out goals and checkpoints for this project.
@@ -49,6 +51,13 @@ Starting CAD hopefully!
 ## 4 | June 18 | CAD + Code + Electrical
 + Finished code!
 + FINISHED CAD????? (making 23 studios for this was not what i expected)
-+ Decided to mess with onshape drawings
+    + Don't know why any of my cad files are not named - I did but too lazy to fix here
 ![finished](PICTURES/Screenshot%202025-06-18%20at%2010.51.20 AM.png)
-+ Starting on electrical now!
++ Decided to mess with onshape drawings
++ ~~Starting on electrical now!~~ Ok so i finished? 
+![schematic?](PICTURES/Screenshot%202025-06-18%20at%2012.07.50 PM.png)
++ Final Review -> BOM uploaded, README finished
+
+**Total time spent: 5h**
+
+
