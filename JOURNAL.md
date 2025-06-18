@@ -45,3 +45,10 @@ Starting CAD hopefully!
     + ~~i have no coding skills i hate this...~~
 
 **Total time spent: 6h**
+
+## 4 | June 18 | CAD + Code + Electrical
++ Finished code!
++ FINISHED CAD????? (making 23 studios for this was not what i expected)
++ Decided to mess with onshape drawings
+![finished](PICTURES/Screenshot%202025-06-18%20at%2010.51.20 AM.png)
++ Starting on electrical now!
