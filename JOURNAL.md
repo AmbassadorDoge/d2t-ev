@@ -33,5 +33,15 @@ Starting CAD hopefully!
 ![Back](PICTURES/Screenshot%202025-06-16%20at%2011.50.11 PM.png)
 + Started code, skipping PCB because waste of money + this project will have multiple iterations
 
-
 **Total time spent: 5.5h**
+
+## 3 | June 17 | CAD + Code
++ Finished back assembly! 
+![Back](PICTURES/Screenshot%202025-06-17%20at%2010.05.22 PM.png)
++ Realized I have no materials so actually finalized BOM
++ Learned PIO! (used to use Arduino IDE)
++ Learned some kinematics but still confused
++ ~~got cooked by~~Almost finished code prototype(copilot help is useful but annoying at the same time 😭)
+    + ~~i have no coding skills i hate this...~~
+
+**Total time spent: 6h**
